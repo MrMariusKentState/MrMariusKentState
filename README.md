@@ -1,5 +1,5 @@
 I am currently enrolled in the Coding Dojo coding bootcamp.   I have worked with HTML, CSS, Javascript, Python, Jinja, and with Flask.  
-I also have a PhD in Geography, and teach both introductory Meteorology and Geospatial principles at Bowling Green State University in Ohio.  My previous research examines atmospheric hazards relative to population dynamics, and I have five first-author peer-reviewed publications total.  
+I also have a PhD in Geography, and have previously taught both introductory Meteorology and Geospatial principles at Bowling Green State University in Ohio.  My previous research examines atmospheric hazards relative to population dynamics, and I have five first-author peer-reviewed publications total.  
 
 For more information, please also see my LinkedIn profile:
 https://www.linkedin.com/in/mariuspaulikas/
