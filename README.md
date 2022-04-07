@@ -1,10 +1,10 @@
-Former professor turned software engineer with data analysis and hazards research experience. 
+<h4>Former professor turned software engineer with data analysis and hazards research experience.</h4>
 
-Skillsets: 
-Languages: HTML, CSS, JavaScript, Python, Express, Java, JQuery 
-Libraries/Frameworks: Flask, React, Express
-Databases: MySQL, Mongo 
-Tools: Windows VS, Spring Tool Suite 4, Bootstrap | Other: Ajax, JSON, ArcGIS, MS Office, SPSS
+<p>Languages: HTML, CSS, JavaScript, Python, Express, Java, JQuery </p>
+<p>Libraries/Frameworks: Flask, React, Express</p>
+<p>Databases: MySQL, Mongo </p>
+<p>Tools: Windows VS, Spring Tool Suite 4, Bootstrap </p>
+<p>Other: Ajax, JSON, ArcGIS, MS Office, SPSS</p>
 
 
 For more information, please also see my LinkedIn profile:
