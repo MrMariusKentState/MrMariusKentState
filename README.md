@@ -1,5 +1,11 @@
-I am currently enrolled in the Coding Dojo coding bootcamp.   I have worked with HTML, CSS, Javascript, Python, Jinja, and with Flask.  
-I also have a PhD in Geography, and have previously taught both introductory Meteorology and Geospatial principles at Bowling Green State University in Ohio.  My previous research examines atmospheric hazards relative to population dynamics, and I have five first-author peer-reviewed publications total.  
+Former professor turned software engineer with data analysis and hazards research experience. 
+
+Skillsets: 
+Languages: HTML, CSS, JavaScript, Python, Express, Java, JQuery 
+Libraries/Frameworks: Flask, React, Express
+Databases: MySQL, Mongo 
+Tools: Windows VS, Spring Tool Suite 4, Bootstrap | Other: Ajax, JSON, ArcGIS, MS Office, SPSS
+
 
 For more information, please also see my LinkedIn profile:
 https://www.linkedin.com/in/mariuspaulikas/
